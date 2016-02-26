@@ -1,0 +1,17 @@
+# Section 2 : Financement du service universel des communications électroniques.
+
+* [Article R20-31](./LEGIARTI000006466206.md)
+* [Article R20-32](./LEGIARTI000006466209.md)
+* [Article R20-33](./LEGIARTI000019348264.md)
+* [Article R20-34](./LEGIARTI000031694625.md)
+* [Article R20-35](./LEGIARTI000025622842.md)
+* [Article R20-36](./LEGIARTI000019348274.md)
+* [Article R20-37](./LEGIARTI000019348277.md)
+* [Article R20-37-1](./LEGIARTI000006466239.md)
+* [Article R20-38](./LEGIARTI000025622844.md)
+* [Article R20-39](./LEGIARTI000006466246.md)
+* [Article R20-40](./LEGIARTI000019348281.md)
+* [Article R*20-41](./LEGIARTI000006466256.md)
+* [Article R20-42](./LEGIARTI000019348286.md)
+* [Article R20-43](./LEGIARTI000006466264.md)
+* [Article R20-44](./LEGIARTI000006466269.md)

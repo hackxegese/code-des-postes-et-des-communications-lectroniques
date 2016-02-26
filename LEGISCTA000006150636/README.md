@@ -1,0 +1,16 @@
+# Chapitre II : La régulation des activités postales.
+
+* [Article L4](./LEGIARTI000006465307.md)
+* [Article L5](./LEGIARTI000006465317.md)
+* [Article L5-1](./LEGIARTI000021808866.md)
+* [Article L5-2](./LEGIARTI000021808882.md)
+* [Article L5-3](./LEGIARTI000028727662.md)
+* [Article L5-4](./LEGIARTI000006465325.md)
+* [Article L5-5](./LEGIARTI000006465326.md)
+* [Article L5-6](./LEGIARTI000006465327.md)
+* [Article L5-7](./LEGIARTI000006465328.md)
+* [Article L5-7-1](./LEGIARTI000021808889.md)
+* [Article L5-8](./LEGIARTI000019900547.md)
+* [Article L5-9](./LEGIARTI000020480327.md)
+* [Article L5-9-1](./LEGIARTI000023480468.md)
+* [Article L5-10](./LEGIARTI000006465331.md)

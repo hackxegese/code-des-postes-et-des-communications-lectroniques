@@ -1,0 +1,11 @@
+# Sous-section 3 : Dispositions diverses
+
+* [Article R1-1-18](./LEGIARTI000006466167.md)
+* [Article R1-1-19](./LEGIARTI000006466168.md)
+* [Article R1-1-20](./LEGIARTI000006466169.md)
+* [Article R1-1-21](./LEGIARTI000006466170.md)
+* [Article R1-1-22](./LEGIARTI000006466171.md)
+* [Article R1-1-23](./LEGIARTI000006466172.md)
+* [Article R1-1-24](./LEGIARTI000006466173.md)
+* [Article R1-1-25](./LEGIARTI000006466174.md)
+* [Article R1-1-26](./LEGIARTI000026407609.md)

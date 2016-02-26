@@ -1,0 +1,15 @@
+# Section 4 : Servitudes de protection des centres de réception radioélectriques contre les perturbations électromagnétiques.
+
+* [Article R27](./LEGIARTI000006466897.md)
+* [Article R*28](./LEGIARTI000006466903.md)
+* [Article R*29](./LEGIARTI000006466909.md)
+* [Article R*30](./LEGIARTI000006466915.md)
+* [Article R*31](./LEGIARTI000006466922.md)
+* [Article R*32](./LEGIARTI000006466928.md)
+* [Article R*33](./LEGIARTI000006466934.md)
+* [Article R*34](./LEGIARTI000006466940.md)
+* [Article R*35](./LEGIARTI000006466946.md)
+* [Article R*36](./LEGIARTI000006466953.md)
+* [Article R*37](./LEGIARTI000006466959.md)
+* [Article R*38](./LEGIARTI000006466966.md)
+* [Article R*39](./LEGIARTI000006466973.md)

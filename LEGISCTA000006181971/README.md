@@ -1,0 +1,10 @@
+# Paragraphe II : Organisation et fonctionnement
+
+* [Article R20-44-12](./LEGIARTI000006466433.md)
+* [Article R20-44-13](./LEGIARTI000006466434.md)
+* [Article R20-44-14](./LEGIARTI000029983016.md)
+* [Article R20-44-15](./LEGIARTI000006466438.md)
+* [Article R20-44-16](./LEGIARTI000026736019.md)
+* [Article R20-44-17](./LEGIARTI000026629134.md)
+* [Article R20-44-18](./LEGIARTI000025622853.md)
+* [Article R20-44-19](./LEGIARTI000023952030.md)

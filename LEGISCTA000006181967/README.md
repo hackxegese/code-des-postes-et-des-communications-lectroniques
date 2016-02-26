@@ -1,0 +1,13 @@
+# Paragraphe II : Evaluation de la conformité des équipements.
+
+* [Article R20-4](./LEGIARTI000006466687.md)
+* [Article R20-5](./LEGIARTI000006466693.md)
+* [Article R20-6](./LEGIARTI000006466699.md)
+* [Article R20-7](./LEGIARTI000006466705.md)
+* [Article R20-8](./LEGIARTI000006466711.md)
+* [Article R20-9](./LEGIARTI000006466718.md)
+* [Article R20-9-1](./LEGIARTI000006466385.md)
+* [Article R20-10](./LEGIARTI000024505971.md)
+* [Article R20-11](./LEGIARTI000024505968.md)
+* [Article R20-12](./LEGIARTI000006466738.md)
+* [Article R20-13](./LEGIARTI000006466744.md)
